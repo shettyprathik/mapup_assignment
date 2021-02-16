@@ -1,9 +1,0 @@
-::ffff:172.24.240.1 POST /auth/signin 400 - 9.796 ms
-::ffff:172.24.240.1 POST /auth/signin 401 - 3.115 ms
-::ffff:172.24.240.1 POST /auth/signin 200 - 3.204 ms
-::ffff:172.24.240.1 POST /auth/signin 404 - 0.896 ms
-::ffff:172.24.240.1 POST /auth/signin 200 - 1.105 ms
-::ffff:172.24.240.1 POST /intersections 200 - 267.662 ms
-::ffff:172.24.240.1 POST /intersections 401 - 0.769 ms
-::ffff:172.24.240.1 POST /auth/signin 200 - 4.475 ms
-::ffff:172.24.240.1 POST /intersections 200 - 185.400 ms

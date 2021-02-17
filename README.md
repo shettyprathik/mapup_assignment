@@ -1,6 +1,12 @@
 ## Sandbox URL
 
 ```
+https://codesandbox.io/s/still-meadow-00fpr
+```
+
+## API request URL
+
+```
 https://00fpr.sse.codesandbox.io/
 ```
 
